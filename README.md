@@ -27,6 +27,7 @@ git clone https://github.com/chandrikadeb7/Covid-19-HelpDesk.git
 ![screenshot 30](https://github.com/chandrikadeb7/Covid-19-HelpDesk/blob/master/Screen%20Shot%202020-04-13%20at%206.02.26%20PM.png)
 
 ### For Database:
+Kindly have a look at '_html/dbconnect.php_' file
   * Set username = "root" and password = " " on _Phpmyadmin_: "http://localhost/phpmyadmin/"
   * Create Database: __covid-19__ by clicking 'New' option on left side panel.
   * Import the following tables in the database:
